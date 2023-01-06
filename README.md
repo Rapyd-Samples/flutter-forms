@@ -14,4 +14,7 @@ You will need the following to run this project:
 - Run `flutter pub get` to install dependencies.
 - Run `flutter run` to build and run the application.
 
+## Support
+[Accept payments](https://github.com/Rapyd-Samples/accept-payments) worldwide using Rapyd.
+
 ![Flutter Form Validation](https://imgur.com/Tuip4MC.png)
