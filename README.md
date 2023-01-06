@@ -17,5 +17,5 @@ You will need the following to run this project:
 ## Support
 [Accept payments](https://github.com/Rapyd-Samples/accept-payments) worldwide using Rapyd.
 
-## Screenchot
+## Screenshot
 ![Flutter Form Validation](https://imgur.com/Tuip4MC.png)
